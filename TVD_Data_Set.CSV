@@ -1,0 +1,21 @@
+record_id,character_name,actor_name,primary_series,species,tvd_episodes,to_episodes,legacies_episodes,total_universe_episodes,show_seasons,show_total_episodes,show_imdb_rating,release_year,end_year,maturity_rating,primary_setting,character_archetype
+1,Klaus Mikaelson,Joseph Morgan,The Originals,Original Hybrid (Vampire/Werewolf),48,92,1,141,5,92,8.3,2013,2018,TV-14,"New Orleans, Louisiana",Ruthless Strategist & Loyal Protector
+2,Stefan Salvatore,Paul Wesley,The Vampire Diaries,Vampire,171,1,0,172,8,171,7.7,2009,2017,TV-14,"Mystic Falls, Virginia",Selfless & Empathetic Hero
+3,Damon Salvatore,Ian Somerhalder,The Vampire Diaries,Vampire,171,0,0,171,8,171,7.7,2009,2017,TV-14,"Mystic Falls, Virginia",Impulsive & Defiant Anti-Hero
+4,Elijah Mikaelson,Daniel Gillies,The Originals,Original Vampire,23,85,0,108,5,92,8.3,2013,2018,TV-14,"New Orleans, Louisiana",Noble & Honor-Bound Enforcer
+5,Rebekah Mikaelson,Claire Holt,The Originals,Original Vampire,37,37,2,76,5,92,8.3,2013,2018,TV-14,"New Orleans, Louisiana",Fierce & Devoted Sister
+6,Elena Gilbert,Nina Dobrev,The Vampire Diaries,Human / Doppelganger / Vampire,134,1,0,135,8,171,7.7,2009,2017,TV-14,"Mystic Falls, Virginia",Compassionate Survivor
+7,Caroline Forbes,Candice King,The Vampire Diaries,Vampire,147,5,2,154,8,171,7.7,2009,2017,TV-14,"Mystic Falls, Virginia",Driven Leader & Organizer
+8,Bonnie Bennett,Kat Graham,The Vampire Diaries,Bennett Witch,141,0,0,141,8,171,7.7,2009,2017,TV-14,"Mystic Falls, Virginia",Self-Sacrificing Guardian
+9,Hayley Marshall,Phoebe Tonkin,The Originals,Werewolf / Hybrid,8,80,0,88,5,92,8.3,2013,2018,TV-14,"New Orleans, Louisiana",Fierce Alpha & Mother
+10,Marcel Gerard,Charles Michael Davis,The Originals,Upgraded Original Vampire,1,89,1,91,5,92,8.3,2013,2018,TV-14,"New Orleans, Louisiana",Charismatic King & Tactician
+11,Freya Mikaelson,Riley Voelkel,The Originals,Mikaelson Witch,0,60,2,62,5,92,8.3,2013,2018,TV-14,"New Orleans, Louisiana",Protective Eldest Sister
+12,Kol Mikaelson,Nathaniel Buzolic,The Originals,Original Vampire,10,24,1,35,5,92,8.3,2013,2018,TV-14,"New Orleans, Louisiana",Wild & Unpredictable Rebel
+13,Alaric Saltzman,Matt Davis,Legacies,Human / Vampire Hunter,123,3,65,191,4,68,7.3,2018,2022,TV-14,"Mystic Falls, Virginia",Mentor & Headmaster
+14,Hope Mikaelson,Danielle Rose Russell,Legacies,Tribrid (Witch/Werewolf/Vampire),0,13,68,81,4,68,7.3,2018,2022,TV-14,"Mystic Falls, Virginia",Reluctant Prodigy & Hero
+15,Lizzie Saltzman,Jenny Boyd,Legacies,Siphoner Witch,0,0,66,66,4,68,7.3,2018,2022,TV-14,"Mystic Falls, Virginia",Sharp-Tongued & Loyal Twin
+16,Josie Saltzman,Kaylee Bryant,Legacies,Siphoner Witch,0,0,59,59,4,68,7.3,2018,2022,TV-14,"Mystic Falls, Virginia",Empathetic & Conflicted Twin
+17,Landon Kirby,Aria Shahghasemi,Legacies,Phoenix,0,1,62,63,4,68,7.3,2018,2022,TV-14,"Mystic Falls, Virginia",Idealistic Outsider
+18,Matt Donovan,Zach Roerig,The Vampire Diaries,Human,142,1,2,145,8,171,7.7,2009,2017,TV-14,"Mystic Falls, Virginia",Resilient Loyalist
+19,Tyler Lockwood,Michael Trevino,The Vampire Diaries,Werewolf / Hybrid,94,2,0,96,8,171,7.7,2009,2017,TV-14,"Mystic Falls, Virginia",Hot-Headed Fighter
+20,Davina Claire,Danielle Campbell,The Originals,Harvest Witch,0,54,0,54,5,92,8.3,2013,2018,TV-14,"New Orleans, Louisiana",Defiant Powerhouse
